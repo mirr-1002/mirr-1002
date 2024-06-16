@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
     height="500"
   />
 </a>
-
   <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{mirr-1002}"/>
 </a>
