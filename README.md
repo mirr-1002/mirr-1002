@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
     width="1000"
     height="500" 
   />
-  <img=src="https://render.gitanimals.org/farms/{mirr-1002}"/>
+  <img src="https://render.gitanimals.org/farms/{mirr-1002}"/>
 </a>
